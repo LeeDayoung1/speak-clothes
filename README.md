@@ -22,7 +22,7 @@
 
 | 제목 | 링크 |
 |------|------|
-| 공감각적 색 안내 RGB 데이터베이스 | [📄 PDF](./color_DB.pdf) |
+| 공감각적 색 안내 RGB 데이터베이스 | [📄 DB PDF 보기](./color_DB.pdf) |
 
 ---
 
@@ -35,6 +35,7 @@
 | 구분 | 내용 |
 |------|------|
 | **데이터 구축** | 색 교육 정보 탐색 및 공감각적 색 안내 RGB 데이터베이스 구축 (Firebase) |
+| **AI 모델** | Google Vertex AI / Vision AI 모델 학습 및 앱 연동 |
 | **Backend** | Firebase 자동 로그인 및 연동<br>API로 추출한 RGB값을 Firebase 데이터와 매핑해 유사 색상 도출 및 안내 문장 생성 |
 | **Frontend** | 로딩 화면 구현 |
 
